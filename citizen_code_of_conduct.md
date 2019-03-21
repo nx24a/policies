@@ -2,15 +2,15 @@
 
 ## 1. Purpose
 
-A primary goal of [COMMUNITY_NAME] is to be inclusive to the largest number of contributors, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, ability, ethnicity, socioeconomic status, and religion (or lack thereof).
+A primary goal of avico is to be inclusive to the largest number of contributors, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, ability, ethnicity, socioeconomic status, and religion (or lack thereof).
 
 This code of conduct outlines our expectations for all those who participate in our community, as well as the consequences for unacceptable behavior.
 
-We invite all those who participate in [COMMUNITY_NAME] to help us create safe and positive experiences for everyone.
+We invite all those who participate in avico to help us create safe and positive experiences for everyone.
 
-## 2. Open [Source/Culture/Tech] Citizenship
+## 2. Open Tech Citizenship
 
-A supplemental goal of this Code of Conduct is to increase open [source/culture/tech] citizenship by encouraging participants to recognize and strengthen the relationships between our actions and their effects on our community.
+A supplemental goal of this Code of Conduct is to increase open tech citizenship by encouraging participants to recognize and strengthen the relationships between our actions and their effects on our community.
 
 Communities mirror the societies in which they exist and positive action is essential to counteract the many forms of inequality and abuses of power that exist in society.
 
@@ -45,7 +45,7 @@ The following behaviors are considered harassment and are unacceptable within ou
 
 ## 5. Weapons Policy
 
-No weapons will be allowed at [COMMUNITY_NAME] events, community spaces, or in other spaces covered by the scope of this Code of Conduct. Weapons include but are not limited to guns, explosives (including fireworks), and large knives such as those used for hunting or display, as well as any other item used for the purpose of causing injury or harm to others. Anyone seen in possession of one of these items will be asked to leave immediately, and will only be allowed to return without the weapon. Community members are further expected to comply with all state and local laws on this matter.
+No weapons will be allowed at avico events, community spaces, or in other spaces covered by the scope of this Code of Conduct. Weapons include but are not limited to guns, explosives (including fireworks), and large knives such as those used for hunting or display, as well as any other item used for the purpose of causing injury or harm to others. Anyone seen in possession of one of these items will be asked to leave immediately, and will only be allowed to return without the weapon. Community members are further expected to comply with all state and local laws on this matter.
 
 ## 6. Consequences of Unacceptable Behavior
 
@@ -57,7 +57,7 @@ If a community member engages in unacceptable behavior, the community organizers
 
 ## 7. Reporting Guidelines
 
-If you are subject to or witness unacceptable behavior, or have any other concerns, please notify a community organizer as soon as possible. [CONTACT_INFO_HERE].
+If you are subject to or witness unacceptable behavior, or have any other concerns, please notify a community organizer as soon as possible. notcool@avico.io.
 
 [LINK_TO_REPORTING_GUIDELINES]
 
@@ -65,9 +65,7 @@ Additionally, community organizers are available to help community members engag
 
 ## 8. Addressing Grievances
 
-If you feel you have been falsely or unfairly accused of violating this Code of Conduct, you should notify [GOVERNING_BODY] with a concise description of your grievance. Your grievance will be handled in accordance with our existing governing policies. [LINK_TO_POLICY]
-
-[NOTE: Every organization's governing policies should dictate how you handle warnings and expulsions of community members. It is strongly recommended that you mention those policies here or in Section 7 and that you include a mechanism for addressing grievances.]
+If you feel you have been falsely or unfairly accused of violating this Code of Conduct, you should notify [GOVERNING_BODY] with a concise description of your grievance. Your grievance will be handled in accordance with our existing governing policies. link
 
 ## 9. Scope
 
